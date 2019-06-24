@@ -26,7 +26,7 @@ Fonte oficial do dateset: (http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html)
 #### Autoria e contribuições
 
 - Christopher Nothmann Tumenas Cabral da Costa 
-<christopher.noth   mann@gmail.com>
+<christopher.nothmann@gmail.com>
 ---	
 
 # Instrução
