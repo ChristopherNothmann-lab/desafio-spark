@@ -17,11 +17,11 @@ Este desafio tem como finalidade realizar as consultas abaixo:
 - Julho  --  NASA_access_log_Jul95
 - Agosto -- NASA_access_log_Aug95
 
-#### Sobre o dataset: 
 
+Sobre o dataset: 
 Esses dois conjuntos de dados possuem todas as requisições HTTP para o servidor da NASA Kennedy Space Center WWW na Flórida para um período específico.  
-Fonte oficial do dateset: 
-http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html 
+Fonte oficial do dateset: (http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html) 
+
 ---
 #### Autoria e contribuições
 
